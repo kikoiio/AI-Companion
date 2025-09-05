@@ -1,4 +1,4 @@
-# 🤖 AI Companion - Bocchi!
+# 🤖 AI Companion
 
 > 一个运行在树莓派上的个人AI聊天应用，可以与你进行文字对话，并根据对话内容变换生动的表情。
 
